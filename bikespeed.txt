@@ -1,0 +1,17 @@
+enter bike speed to stop enter 0: 100
+DANGER, mom is waiting at home!!!
+enter bike speed: 79
+I Think You are a Father
+enter bike speed: -70
+don't do comedy !!! provide valid speed
+enter bike speed: 50
+good speed GOD bless you Beta
+enter bike speed: 20
+are you riding a Bicycle?
+enter bike speed: 10
+are you riding a Bicycle?
+enter bike speed: 90
+OverSpeed, Go Slow Man--
+enter bike speed: 36
+are you riding a Bicycle?
+enter bike speed: 0
